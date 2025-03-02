@@ -56,6 +56,9 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 - **CrossFit Lover**: Passionate about CrossFit and pushing my physical limits.
 
 - **Hackathons**: I thrive on the excitement and challenges of hackathons.
+	- **code4Azur**: Focused on finding innovative ways to raise public awareness and improve preparedness for natural hazards like floods, tsunamis, and earthquakes
+
+	- **Tech4Tourism**: Worked on projects to enhance the travel and tourism experience through technology.
 
 *When I’m not coding, you’ll find me on the mat, the trail, or in the gym! :D*
 

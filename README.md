@@ -42,7 +42,7 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 | **[ft_printf](https://github.com/yahyaeb/ft_printf)**       | Custom implementation of the printf function in C, supporting various format specifiers and argument types. | Completed |
 | **[Born2beroot](https://github.com/yahyaeb/Born2BeRoot)**     | A project focused on automating the setup of a Linux server, including installation and configuration of essential tools and services. | Completed |
 | **[Get_next_line](https://github.com/yahyaeb/get_next_line)**   | A C program that reads a line from a file descriptor, handling dynamic memory allocation and file pointer management. | Completed |
-| **[Pipex](https://github.com/yahyaeb/pipex)**           | A C program that simulates shell pipelines, focusing on process management and input/output redirection. | In Progress |
+| **[Pipex](https://github.com/yahyaeb/pipex)**           | A C program that simulates shell pipelines, focusing on process management and input/output redirection. | Completed |
 
 
 ## Fun Facts about me

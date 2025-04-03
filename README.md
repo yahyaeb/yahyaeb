@@ -22,16 +22,29 @@ I’m a cybersecurity enthusiast, passionate about troubleshooting, problem-solv
 ## 🧰 Tech Stack
 
 **Languages & Scripting:**  
-`C`, `Bash`, `HTML`, `CSS`, `MySQL`
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Tools & Platforms:**  
-`Git`, `Linux`, `AWS (S3, Route 53, CloudFront, ACM)`, `Postman`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Operating Systems:**  
-`Linux`, `macOS`
 
-**Currently Learning:**  
-`CS50 by Harvard Introduction to Computer Science`  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ##  GitHub Stats and Streaks
 
@@ -63,6 +76,7 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 - 🛠️ Building a custom shell in C (Minishell project)
 - 🚀 Dynamic Web App – A portfolio/blog/dashboard
 - 📈 eJPT Course (Junior Penetration Tester)
+- CS50 by Harvard Introduction to Computer Science
 
 ## Fun Facts about me
 

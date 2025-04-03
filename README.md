@@ -9,7 +9,7 @@
 
 ## About me
 
-I’m a multi-talented individual currently advancing my programming skills at École 42, with expertise in C, Bash, Linux, and Git. Holding a Bachelor's in Business Management, I blend technical proficiency with a strong business foundation.
+I am currently advancing my programming skills at École 42, with expertise in C, Bash, Linux, and Git. Holding a Bachelor's in Business Management, I blend technical proficiency with a strong business foundation.
 
 I’m a cybersecurity enthusiast, passionate about troubleshooting, problem-solving, and collaborating across teams to drive projects forward with efficiency and innovation.
 
@@ -18,6 +18,20 @@ I’m a cybersecurity enthusiast, passionate about troubleshooting, problem-solv
 - A+
 - Network+
 - Security+
+
+## 🧰 Tech Stack
+
+**Languages & Scripting:**  
+`C`, `Bash`, `HTML`, `CSS`, `MySQL`
+
+**Tools & Platforms:**  
+`Git`, `Linux`, `AWS (S3, Route 53, CloudFront, ACM)`, `Postman`
+
+**Operating Systems:**  
+`Linux`, `macOS`
+
+**Currently Learning:**  
+`CS50 by Harvard Introduction to Computer Science`  
 
 ##  GitHub Stats and Streaks
 
@@ -36,14 +50,19 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 
 | Project Name        | Description | Status        |
 | ------------------- | ----------- | ------------- |
-| **[Libft](https://github.com/yahyaeb/libft)**           | Custom C library replicating standard functions for character manipulation, memory management, and more. | Completed |
-| **[Push_swap](https://github.com/yahyaeb/push_swap)**       | Algorithmic project in C that sorts a set of numbers using a stack-based sorting method. | Completed |
-| **[So_long](https://github.com/yahyaeb/so_long)**         | 2D game project in C, implementing basic game mechanics using the MiniLibX graphics library. | Completed |
-| **[ft_printf](https://github.com/yahyaeb/ft_printf)**       | Custom implementation of the printf function in C, supporting various format specifiers and argument types. | Completed |
-| **[Born2beroot](https://github.com/yahyaeb/Born2BeRoot)**     | A project focused on automating the setup of a Linux server, including installation and configuration of essential tools and services. | Completed |
-| **[Get_next_line](https://github.com/yahyaeb/get_next_line)**   | A C program that reads a line from a file descriptor, handling dynamic memory allocation and file pointer management. | Completed |
-| **[Pipex](https://github.com/yahyaeb/pipex)**           | A C program that simulates shell pipelines, focusing on process management and input/output redirection. | Completed |
+| **[Libft](https://github.com/yahyaeb/libft)**           | Custom C library replicating standard functions for character manipulation, memory management, and more. **Learned**: *Fundamentals of C programming, memory allocation, and function implementation.* | Completed |
+| **[Push_swap](https://github.com/yahyaeb/push_swap)**       | Algorithmic project in C that sorts a set of numbers using a stack-based sorting method. **Learned**: *Optimization strategies, data structures, and algorithm performance under constraints.* | Completed |
+| **[So_long](https://github.com/yahyaeb/so_long)**         | 2D game project in C, implementing basic game mechanics using the MiniLibX graphics library. **Learned**: *Game development basics, event handling, and graphics rendering.* | Completed |
+| **[ft_printf](https://github.com/yahyaeb/ft_printf)**       | Custom implementation of the printf function in C, supporting various format specifiers and argument types. **Learned**: *Variadic functions, format parsing, and output formatting.* | Completed |
+| **[Born2beroot](https://github.com/yahyaeb/Born2BeRoot)**     | A project focused on automating the setup of a Linux server, including installation and configuration of essential tools and services. **Learned**: *Linux system administration, shell scripting, and server security.* | Completed |
+| **[Get_next_line](https://github.com/yahyaeb/get_next_line)**   | A C program that reads a line from a file descriptor, handling dynamic memory allocation and file pointer management. **Learned**: *File I/O, buffer management, and dynamic memory handling.* | Completed |
+| **[Pipex](https://github.com/yahyaeb/pipex)**           | A C program that simulates shell pipelines, focusing on process management and input/output redirection. **Learned**: *Process creation, inter-process communication, and file descriptor manipulation.* | Completed |
+| **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website)** | Hosted a fully secure static website using AWS services like S3, CloudFront, Route 53, ACM, and IAM. Includes HTTPS, custom domain, and cache optimization. **Learned**: *Cloud infrastructure setup, security best practices, and performance optimization.* | Completed |
 
+## Currently Working On
+- 🛠️ Building a custom shell in C (Minishell project)
+- 🚀 Dynamic Web App – A portfolio/blog/dashboard
+- 📈 eJPT Course (Junior Penetration Tester)
 
 ## Fun Facts about me
 
@@ -68,6 +87,6 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 
 - Visit my [LinkedIn Profile](https://www.linkedin.com/in/yahia-elboukili/)
 
-- Shoot me an [email](yahya.elboukili1@gmail.com)
+- Shoot me an [email](mailto:yahya.elboukili1@gmail.com)
 
 *Feel free to reach out for collaborations, opportunities, or just a friendly chat!* 

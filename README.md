@@ -53,8 +53,6 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaeb&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yahyaeb&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaeb&layout=compact&theme=radical)
 
 </div>

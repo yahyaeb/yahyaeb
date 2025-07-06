@@ -71,7 +71,7 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 | **[Minishell](https://github.com/yahyaeb/minishell)**   | A custom shell implementation in C, supporting command parsing, execution, redirections, and environment variables. **Learned**: *Shell architecture, process control, and advanced parsing techniques.* | Completed |
 | **[Philosophers](https://github.com/yahyaeb/philosophers)** | Implementation of the classic Dining Philosophers problem in C, focusing on concurrency, synchronization, and thread management. **Learned**: *Multithreading, mutexes, and deadlock avoidance.* | Completed |
 | **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website)** | Hosted a fully secure static website using AWS services like S3, CloudFront, Route 53, ACM, and IAM. Includes HTTPS, custom domain, and cache optimization. **Learned**: *Cloud infrastructure setup, security best practices, and performance optimization.* | Completed |
-| **CPP Project** | Object-oriented programming and advanced C++ concepts. **Learning**: *C++ syntax, OOP, memory management, and STL usage.* | In Progress
+| **[CPP](https://github.com/yahyaeb/cpp00)** | Object-oriented programming and advanced C++ concepts. **Learning**: *C++ syntax, OOP, memory management, and STL usage.* | In Progress
 
 ## Currently Working On
 - 📘 Currently learning C++

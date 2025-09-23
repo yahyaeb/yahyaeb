@@ -3,15 +3,18 @@
 
 ## Hi there! I am Yahia Elboukili 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖥️+Aspiring+Developer;🎓+Ecole+42+Student;🔬+Low-Level+Systems+Programmer;🔐+Cybersecurity+Enthusiast;🏴‍☠️+CTF+Player;📌+Problem+Solver;⚙️+C,+Linux,+Bash+Practitioner;📚+Lifelong+Learner&font=Fira%20Code&center=true&width=450&height=100&color=FF5E99&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖥️+Aspiring+DevOps+Engineer;📦+Cloud+%26+Automation+Enthusiast;⚙️+Linux,+C,+Bash+Nerd;🔐+Cybersecurity+Practitioner+%26;🚀+CI/CD+%26+Docker+Explorer;🔬+Embedded+Systems+Fan;📌+Systems+Problem+Solver;📚+Lifelong+Learner&font=Fira%20Code&center=true&width=500&height=100&color=FF5E99&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+
 
 </div>
 
 ## About me
 
-I am currently advancing my programming skills at École 42, with expertise in C, Bash, Linux, and Git. Holding a Bachelor's in Business Management, I blend technical proficiency with a strong business foundation.
+I am currently advancing my programming skills at École 42, specializing in C, Bash, Linux, and Git—all essential tools for building robust, automated infrastructure. With a Bachelor’s in Business Management, I combine technical expertise with a practical, solutions-driven mindset.
 
-I’m a cybersecurity enthusiast, passionate about troubleshooting, problem-solving, and collaborating across teams to drive projects forward with efficiency and innovation.
+I’m passionate about DevOps practices—automation, CI/CD pipelines, and bridging the gap between development and operations. I thrive on troubleshooting complex systems, optimizing workflows, and collaborating across teams to deliver secure, efficient, and scalable solutions.
+
+Always eager to learn, I’m driven by curiosity and a commitment to continuous improvement, both in technology and teamwork.
 
 **CompTIA Certifications**:
 
@@ -24,6 +27,7 @@ I’m a cybersecurity enthusiast, passionate about troubleshooting, problem-solv
 **Languages & Scripting:**  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)

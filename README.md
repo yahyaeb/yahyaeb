@@ -77,7 +77,7 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 | **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website)** | Hosted a fully secure static website using AWS services like S3, CloudFront, Route 53, ACM, and IAM. Includes HTTPS, custom domain, and cache optimization. **Learned**: *Cloud infrastructure setup, security best practices, and performance optimization.* | Completed |
 | **[CPP](https://github.com/yahyaeb/cpp)** | Object-oriented programming and advanced C++ concepts. **Learning**: *C++ syntax, OOP, memory management, and STL usage.* | Completed |
 | **[Wolfenstein 3D (cub3d)](https://github.com/yahyaeb/Wolfenstein-3D)** | A raycasting-based 3D game engine inspired by Wolfenstein 3D, built in C using MiniLibX. Features player movement, wall rendering, textures, and basic game mechanics. **Learned**: *Raycasting algorithms, graphics programming, event handling, and game engine architecture.* | Completed |
-| **[42 Algorithms Python](https://github.com/yahyaeb/42-algorithms-python)** | Python solutions for algorithmic challenges, focusing on problem-solving, data structures, and algorithmic thinking. **Learning**: *Python syntax, algorithms, and efficient coding practices.* | In Progress |
+| **[42 Algorithms Python](https://github.com/yahyaeb/Python-42-Algorithms)** | Python solutions for algorithmic challenges, focusing on problem-solving, data structures, and algorithmic thinking. **Learning**: *Python syntax, algorithms, and efficient coding practices.* | In Progress |
 
 ## Currently Working On
 - 📘 Currently learning C++

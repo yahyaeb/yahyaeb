@@ -81,6 +81,8 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 | **[CPP](https://github.com/yahyaeb/cpp)** | Object-oriented programming and advanced C++ concepts. **Learning**: *C++ syntax, OOP, memory management, and STL usage.* | Completed |
 | **[Wolfenstein 3D (cub3d)](https://github.com/yahyaeb/Wolfenstein-3D)** | A raycasting-based 3D game engine inspired by Wolfenstein 3D, built in C using MiniLibX. Features player movement, wall rendering, textures, and basic game mechanics. **Learned**: *Raycasting algorithms, graphics programming, event handling, and game engine architecture.* | Completed |
 | **[42 Algorithms Python](https://github.com/yahyaeb/Python-42-Algorithms)** | Python solutions for algorithmic challenges, focusing on problem-solving, data structures, and algorithmic thinking. **Learning**: *Python syntax, algorithms, and efficient coding practices.* | In Progress |
+| **[Inception](https://github.com/yahyaeb/inception)** | Docker-based project automating the deployment of a secure WordPress website using Nginx, MariaDB, and PHP-FPM containers. **Learned**: *Container orchestration, service isolation, network management, and infrastructure automation with Docker Compose.* | Completed |
+
 
 ## Currently Working On
 - 📘 Currently learning C++

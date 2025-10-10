@@ -3,7 +3,7 @@
 
 ## Hi there! I am Yahia Elboukili 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖥️+Aspiring+DevOps+Engineer;📦+Cloud+%26+Automation+Enthusiast;⚙️+Linux,+C,+Bash+Nerd;🔐+Cybersecurity+Practitioner+%26;🚀+CI/CD+%26+Docker+Explorer;🔬+Embedded+Systems+Fan;📌+Systems+Problem+Solver;📚+Lifelong+Learner&font=Fira%20Code&center=true&width=500&height=100&color=FF5E99&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🖥️+Aspiring+DevOps+Engineer;🚀+Cloud+%26+Automation+Enthusiast;⚙️+Linux,+CI/CD,+Docker;🔐+Cybersecurity+Learner;📚+Lifelong+Learner&font=Fira%20Code&center=true&width=500&height=100&color=FF5E99&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 
 </div>
@@ -23,6 +23,11 @@ Always eager to learn, I’m driven by curiosity and a commitment to continuous 
 - Security+
 
 ## 🧰 Tech Stack
+
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square)
+![Containers](https://img.shields.io/badge/Containers-Docker-blue?style=flat-square)
+
 
 **Languages & Scripting:**  
 
@@ -45,11 +50,6 @@ Always eager to learn, I’m driven by curiosity and a commitment to continuous 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-**Operating Systems:**  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
@@ -64,40 +64,34 @@ Here’s a quick snapshot of my GitHub activity and the languages I use the most
 
 </div>
 
+## Currently Working On
+- 🧩 IRC Server in C++ (network programming & client management)
+- 🌐 Dynamic Web App (portfolio + blog + dashboard)
+- 🎓 CS50 by Harvard (core computer science concepts)
+
 ## Projects
 
-| Project Name        | Description | Status        |
-| ------------------- | ----------- | ------------- |
-| **[Libft](https://github.com/yahyaeb/libft)**           | Custom C library replicating standard functions for character manipulation, memory management, and more. **Learned**: *Fundamentals of C programming, memory allocation, and function implementation.* | Completed |
-| **[Push_swap](https://github.com/yahyaeb/push_swap)**       | Algorithmic project in C that sorts a set of numbers using a stack-based sorting method. **Learned**: *Optimization strategies, data structures, and algorithm performance under constraints.* | Completed |
-| **[So_long](https://github.com/yahyaeb/so_long)**         | 2D game project in C, implementing basic game mechanics using the MiniLibX graphics library. **Learned**: *Game development basics, event handling, and graphics rendering.* | Completed |
-| **[ft_printf](https://github.com/yahyaeb/ft_printf)**       | Custom implementation of the printf function in C, supporting various format specifiers and argument types. **Learned**: *Variadic functions, format parsing, and output formatting.* | Completed |
-| **[Born2beroot](https://github.com/yahyaeb/Born2BeRoot)**     | A project focused on automating the setup of a Linux server, including installation and configuration of essential tools and services. **Learned**: *Linux system administration, shell scripting, and server security.* | Completed |
-| **[Get_next_line](https://github.com/yahyaeb/get_next_line)**   | A C program that reads a line from a file descriptor, handling dynamic memory allocation and file pointer management. **Learned**: *File I/O, buffer management, and dynamic memory handling.* | Completed |
-| **[Pipex](https://github.com/yahyaeb/pipex)**           | A C program that simulates shell pipelines, focusing on process management and input/output redirection. **Learned**: *Process creation, inter-process communication, and file descriptor manipulation.* | Completed |
-| **[Minishell](https://github.com/yahyaeb/minishell)**   | A custom shell implementation in C, supporting command parsing, execution, redirections, and environment variables. **Learned**: *Shell architecture, process control, and advanced parsing techniques.* | Completed |
-| **[Philosophers](https://github.com/yahyaeb/philosophers)** | Implementation of the classic Dining Philosophers problem in C, focusing on concurrency, synchronization, and thread management. **Learned**: *Multithreading, mutexes, and deadlock avoidance.* | Completed |
-| **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website)** | Hosted a fully secure static website using AWS services like S3, CloudFront, Route 53, ACM, and IAM. Includes HTTPS, custom domain, and cache optimization. **Learned**: *Cloud infrastructure setup, security best practices, and performance optimization.* | Completed |
-| **[CPP](https://github.com/yahyaeb/cpp)** | Object-oriented programming and advanced C++ concepts. **Learning**: *C++ syntax, OOP, memory management, and STL usage.* | Completed |
-| **[Wolfenstein 3D (cub3d)](https://github.com/yahyaeb/Wolfenstein-3D)** | A raycasting-based 3D game engine inspired by Wolfenstein 3D, built in C using MiniLibX. Features player movement, wall rendering, textures, and basic game mechanics. **Learned**: *Raycasting algorithms, graphics programming, event handling, and game engine architecture.* | Completed |
-| **[42 Algorithms Python](https://github.com/yahyaeb/Python-42-Algorithms)** | Python solutions for algorithmic challenges, focusing on problem-solving, data structures, and algorithmic thinking. **Learning**: *Python syntax, algorithms, and efficient coding practices.* | In Progress |
-| **[Inception](https://github.com/yahyaeb/inception)** | Docker-based project automating the deployment of a secure WordPress website using Nginx, MariaDB, and PHP-FPM containers. **Learned**: *Container orchestration, service isolation, network management, and infrastructure automation with Docker Compose.* | Completed |
+| Project Name                                                                                 | Description                                                                                                                                                                                                                                                  | Status         |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| **[Inception](https://github.com/yahyaeb/inception)**                                       | Docker-based project automating the deployment of a secure WordPress website using Nginx, MariaDB, and PHP-FPM containers.<br>**Learned:** Container orchestration, service isolation, network management, and infrastructure automation with Docker Compose. | ✅ Completed   |
+| **[Born2beroot](https://github.com/yahyaeb/Born2BeRoot)**                                   | Automated setup of a Linux virtualized server (Debian) with SSH, UFW, and user management.<br>**Learned:** Linux administration, shell scripting, and system hardening.                                                                                      | ✅ Completed   |
+| **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website)**       | Hosted a fully secure static website using AWS (S3, CloudFront, Route 53, ACM, IAM). Includes HTTPS and caching.<br>**Learned:** Cloud infrastructure setup, IAM, and performance optimization.                                                              | ✅ Completed   |
+| **[Minishell](https://github.com/yahyaeb/minishell)**                                       | Custom shell implementation in C supporting pipelines, redirections, and environment variables.<br>**Learned:** Shell architecture, process management, and command execution flow.                                                                          | ✅ Completed   |
+| **[Philosophers](https://github.com/yahyaeb/philosophers)**                                 | Simulation of the Dining Philosophers problem.<br>**Learned:** Concurrency, synchronization, and resource management using threads and mutexes.                                                                                                               | ✅ Completed   |
+| **[Pipex](https://github.com/yahyaeb/pipex)**                                               | Simulated Unix pipelines in C, handling input/output redirection and process chaining.<br>**Learned:** Pipes, forks, and file descriptors.                                                                                                                   | ✅ Completed   |
+| **[Libft](https://github.com/yahyaeb/libft)**                                               | Custom C standard library re-implementation.<br>**Learned:** Memory management and modular programming.                                                                                                                | ✅ Completed   |
+| **[ft_printf](https://github.com/yahyaeb/ft_printf)**                                       | Custom `printf` implementation with variadic arguments.<br>**Learned:** Format parsing and low-level output control.                                                                                                   | ✅ Completed   |
+| **[Get_next_line](https://github.com/yahyaeb/get_next_line)**                               | Line-by-line file reader handling dynamic buffers.<br>**Learned:** File I/O and memory allocation.                                                                                                                     | ✅ Completed   |
+| **[Push_swap](https://github.com/yahyaeb/push_swap)**                                       | Stack-based sorting algorithm project.<br>**Learned:** Algorithm optimization under constraints.                                                                                                                       | ✅ Completed   |
+| **[So_long](https://github.com/yahyaeb/so_long)**                                           | 2D game project using MiniLibX.<br>**Learned:** Graphics rendering and event handling.                                                                                                                                | ✅ Completed   |
+| **[Wolfenstein 3D (cub3d)](https://github.com/yahyaeb/Wolfenstein-3D)**                     | Raycasting-based 3D game engine.<br>**Learned:** Rendering pipeline and geometric computation.                                                                                                                        | ✅ Completed   |
+| **[CPP Modules](https://github.com/yahyaeb/cpp)**                                           | Object-oriented programming exercises in C++.<br>**Learned:** OOP, memory management, STL, and RAII.                                                                                                                  | ✅ Completed   |
+| **[Python 42 Algorithms](https://github.com/yahyaeb/Python-42-Algorithms)**                 | Python implementations of classic algorithms.<br>**Learning:** Algorithmic thinking and Pythonic efficiency.                                                                                                           | 🚧 In Progress |
 
-
-## Currently Working On
-- 📘 Currently learning C++
-- 🚀 Dynamic Web App – A portfolio/blog/dashboard
-- CS50 by Harvard Introduction to Computer Science
 
 ## Fun Facts about me
 
-- **Brazilian Jiu-Jitsu**: I love practicing BJJ and honing my skills on the mat.
-
-- **Avid Biker & Runner**: I enjoy biking and running marathons and ultra races.
-
-- **Endurance Runner**: Proudly completed a 50k run in under 6 hours and 30 minutes.
-
-- **CrossFit Lover**: Passionate about CrossFit and pushing my physical limits.
+- **Athlete & Adventurer**: Passionate about Brazilian Jiu-Jitsu, CrossFit, endurance running (50 k finisher), and biking adventures.
 
 - **Hackathons**: I thrive on the excitement and challenges of hackathons.
 	- **code4Azur**: Focused on finding innovative ways to raise public awareness and improve preparedness for natural hazards like floods, tsunamis, and earthquakes

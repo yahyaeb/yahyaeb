@@ -63,15 +63,6 @@ I enjoy **troubleshooting complex systems**, optimizing pipelines, and building 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yahyaeb&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaeb&layout=compact&theme=radical" />
-</p>
-
----
-
 ## Currently Working On
 
 - 🌐 Dynamic Web App (portfolio + blog + dashboard)

@@ -15,18 +15,11 @@
 
 ---
 
-## Featured Projects
+## About me
 
-A selection of DevOps and systems projects demonstrating automation, infrastructure, and software reliability.
-
- **[View All Projects →](https://github.com/yahyaeb/projects-portfolio)**  
-*(Full collection of my DevOps, Cloud, and Systems projects)*
-
-- **[Inception](https://github.com/yahyaeb/inception):** Multi-container Docker stack (WordPress, Nginx, MariaDB, TLS).
-- **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website):** S3 + CloudFront + Route 53 + ACM deployment.
-- **[CI/CD Pipeline](https://github.com/yahyaeb/CI-CD_pipeline):** GitHub Actions pipeline automating build/test/deploy.
-- **[ft_irc](https://github.com/yahyaeb/ft_irc)** — IRC server in C++98 using non-blocking sockets and poll(); handles multi-client communication.  
-- **[Minishell](https://github.com/yahyaeb/minishell):** Bash-like shell with pipes, redirections, and process control.
+DevOps-oriented engineering student at **École 42**, building expertise in **Linux, Docker, CI/CD**, and **automation**.  
+With a **Bachelor’s in Business Management** and **CompTIA A+, Network+, Security+** certifications, I combine technical depth with analytical thinking.  
+I enjoy **troubleshooting complex systems**, optimizing pipelines, and building secure, reliable infrastructure.
 
 ---
 
@@ -55,11 +48,18 @@ A selection of DevOps and systems projects demonstrating automation, infrastruct
 
 ---
 
-## About me
+## Featured Projects
 
-DevOps-oriented engineering student at **École 42**, building expertise in **Linux, Docker, CI/CD**, and **automation**.  
-With a **Bachelor’s in Business Management** and **CompTIA A+, Network+, Security+** certifications, I combine technical depth with analytical thinking.  
-I enjoy **troubleshooting complex systems**, optimizing pipelines, and building secure, reliable infrastructure.
+A selection of DevOps and systems projects demonstrating automation, infrastructure, and software reliability.
+
+ **[View All Projects →](https://github.com/yahyaeb/projects-portfolio)**  
+*(Full collection of my DevOps, Cloud, and Systems projects)*
+
+- **[Inception](https://github.com/yahyaeb/inception):** Multi-container Docker stack (WordPress, Nginx, MariaDB, TLS).
+- **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website):** S3 + CloudFront + Route 53 + ACM deployment.
+- **[CI/CD Pipeline](https://github.com/yahyaeb/CI-CD_pipeline):** GitHub Actions pipeline automating build/test/deploy.
+- **[ft_irc](https://github.com/yahyaeb/ft_irc)** — IRC server in C++98 using non-blocking sockets and poll(); handles multi-client communication.  
+- **[Minishell](https://github.com/yahyaeb/minishell):** Bash-like shell with pipes, redirections, and process control.
 
 ---
 

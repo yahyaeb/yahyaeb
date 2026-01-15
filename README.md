@@ -60,6 +60,7 @@ A selection of DevOps and systems projects demonstrating automation, infrastruct
 - **[CI/CD Pipeline](https://github.com/yahyaeb/CI-CD_pipeline):** GitHub Actions pipeline automating build/test/deploy.
 - **[ft_irc](https://github.com/yahyaeb/ft_irc)** — IRC server in C++98 using non-blocking sockets and poll(); handles multi-client communication.  
 - **[Minishell](https://github.com/yahyaeb/minishell):** Bash-like shell with pipes, redirections, and process control.
+- **[ft_Transcendence](https://github.com/yahyaeb/transcendence):** Full-stack web application featuring real-time multiplayer Pong game and user authentication.
 
 ---
 

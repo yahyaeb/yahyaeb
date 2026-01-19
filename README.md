@@ -1,25 +1,25 @@
 
 <div align="center">
 
-## Hi there! I am Yahia Elboukili 👋
-**DevOps & Cloud Engineering | École 42 | Linux • Docker • CI/CD • AWS**
+## 👋 Yahia Elboukili
+**DevOps & Cloud Engineering | École 42**  
+Linux • Docker • CI/CD • AWS
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-1DA1F2?style=flat-square)](https://www.yahia-elboukili.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-elboukili/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/yahyaeb/)
-[![CodinGame](https://img.shields.io/badge/-CodinGame-yellow?style=flat-square&logo=Codeforces&logoColor=white)](https://www.codingame.com/profile/826288cc5efb8c41452c93e449b6de350409346)
-[![Email](https://img.shields.io/badge/-Contact_me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yahya.elboukili1@gmail.com)
-
+[🌐 Portfolio](https://www.yahia-elboukili.com) ·
+[LinkedIn](https://www.linkedin.com/in/yahia-elboukili/) ·
+[LeetCode](https://leetcode.com/u/yahyaeb/) ·
+[CodinGame](https://www.codingame.com/profile/826288cc5efb8c41452c93e449b6de350409346) ·
+[Email](mailto:yahya.elboukili1@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About
 
-DevOps-oriented engineering student at **École 42**, building expertise in **Linux, Docker, CI/CD**, and **automation**.  
-With a **Bachelor’s in Business Management** and **CompTIA A+, Network+, Security+** certifications, I combine technical depth with analytical thinking.  
-I enjoy **troubleshooting complex systems**, optimizing pipelines, and building secure, reliable infrastructure.
+- DevOps-oriented engineering student at **École 42**
+- Strong systems background (Linux, Docker, CI/CD, automation)
+- Business mindset + CompTIA A+, Network+, Security+
 
 ---
 
@@ -53,13 +53,10 @@ I enjoy **troubleshooting complex systems**, optimizing pipelines, and building 
 A selection of DevOps and systems projects demonstrating automation, infrastructure, and software reliability.
 
  **[View All Projects →](https://github.com/yahyaeb/projects-portfolio)**  
-*(Full collection of my DevOps, Cloud, and Systems projects)*
 
 - **[Inception](https://github.com/yahyaeb/inception):** Multi-container Docker stack (WordPress, Nginx, MariaDB, TLS).
 - **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website):** S3 + CloudFront + Route 53 + ACM deployment.
 - **[CI/CD Pipeline](https://github.com/yahyaeb/CI-CD_pipeline):** GitHub Actions pipeline automating build/test/deploy.
-- **[ft_irc](https://github.com/yahyaeb/ft_irc)** — IRC server in C++98 using non-blocking sockets and poll(); handles multi-client communication.  
-- **[Minishell](https://github.com/yahyaeb/minishell):** Bash-like shell with pipes, redirections, and process control.
 - **[ft_Transcendence](https://github.com/yahyaeb/ft_transcendence):** Full-stack web application featuring real-time multiplayer Pong game and user authentication.
 
 ---
@@ -71,9 +68,9 @@ A selection of DevOps and systems projects demonstrating automation, infrastruct
 
 ---
 
-## Fun Facts about me
+## Outside Tech
 
-- **Athlete & Adventurer**: Passionate about Brazilian Jiu-Jitsu, CrossFit, endurance running (50 k finisher), and biking.
+BJJ • endurance sports • hackathons • problem-solving under pressure
 
 - **Hackathons:**  
   - *Code4Azur* – disaster-preparedness innovation challenge.  

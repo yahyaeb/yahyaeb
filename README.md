@@ -15,7 +15,7 @@ Linux • Docker • CI/CD • AWS
 
 ---
 
-## About
+## About Me
 
 - DevOps-oriented engineering student at **École 42**
 - Strong systems background (Linux, Docker, CI/CD, automation)
@@ -50,14 +50,12 @@ Linux • Docker • CI/CD • AWS
 
 ## Featured Projects
 
-A selection of DevOps and systems projects demonstrating automation, infrastructure, and software reliability.
+- **Inception** — Dockerized multi-service stack (Nginx, WordPress, MariaDB, TLS)
+- **AWS Secure Static Website** — S3 + CloudFront + Route 53 + ACM
+- **CI/CD Pipeline** — GitHub Actions for build/test/deploy
+- **ft_transcendence** — Full-stack app with real-time multiplayer game
 
- **[View All Projects →](https://github.com/yahyaeb/projects-portfolio)**  
-
-- **[Inception](https://github.com/yahyaeb/inception):** Multi-container Docker stack (WordPress, Nginx, MariaDB, TLS).
-- **[AWS Secure Static Website](https://github.com/yahyaeb/aws-secure-static-website):** S3 + CloudFront + Route 53 + ACM deployment.
-- **[CI/CD Pipeline](https://github.com/yahyaeb/CI-CD_pipeline):** GitHub Actions pipeline automating build/test/deploy.
-- **[ft_Transcendence](https://github.com/yahyaeb/ft_transcendence):** Full-stack web application featuring real-time multiplayer Pong game and user authentication.
+👉 [View all projects](https://github.com/yahyaeb/projects-portfolio)
 
 ---
 

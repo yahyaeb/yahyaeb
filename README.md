@@ -3,7 +3,7 @@
 ## 👋 Yahia Elboukili  
 **Systems Engineering · Linux · DevOps**
 
-C • C++ • Python • Bash • Ansible • Docker • AWS
+C • Golang • Python • Bash • Ansible • Docker • AWS
 
 [🌐 Portfolio](https://www.yahia-elboukili.com) ·
 [LinkedIn](https://www.linkedin.com/in/yahia-elboukili/) ·

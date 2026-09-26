@@ -5,10 +5,6 @@
 My background is in Linux administration and infrastructure automation.
 I enjoy understanding systems and troubleshooting problems.
 
-Currently working in application SRE, building hands-on experience in
-reliability engineering and exploring practical ways AI can support
-SRE/DevOps workflows.
-
 Currently completing an apprenticeship in application SRE, building hands-on experience in
 reliability engineering and exploring how AI can support operational workflows.
 
